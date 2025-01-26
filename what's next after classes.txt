@@ -1,0 +1,7 @@
+- Design patterns
+- SOLID principles
+- Abstract classes
+- DocStrings
+- Meta classes
+- Descriptors
+- Class decorators

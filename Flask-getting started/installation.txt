@@ -1,0 +1,12 @@
+set up virtual env for python project
+
+install required libraries like below
+
+install flask using "python -m pip install flask"
+
+run your flask by setting flask app and env as follow by navigating to the folder where your file is:
+   set FLASK_APP=flaskCardApp.py
+   $env:FLASK_APP="flaskCardApp.py"
+   flask run
+
+** every command on different line **
